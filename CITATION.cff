@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "LLMs Propose, Code Decides: A Traceable Scenario Database for Scenario-Based Testing of Automated Driving"
+authors:
+  - given-names: Berkay
+    family-names: Taştan
+date-released: 2026-10-22
+license: CC-BY-4.0
+keywords:
+  - automated driving
+  - scenario-based testing
+  - OpenSCENARIO
+  - scenario database
+  - large language models
